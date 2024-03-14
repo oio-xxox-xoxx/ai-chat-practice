@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-nlp": "^3.10.2"
+  }
+}
